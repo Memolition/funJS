@@ -1,4 +1,6 @@
 funnJS By Memolition
 ======
 
-Official repository for funnJS, JavaScript plugin.
+Official repository of funnJS, JavaScript plugin.
+
+Project Start: April 01 Wednesday 2013 - 05/01/2013
