@@ -1,6 +1,7 @@
-funnJS By Memolition
-======
+<h1>funJS</h1>
 
-Official repository of funnJS, JavaScript plugin.
+<b>Official</b> repository for <b>funJS</b>, JavaScript <b>basic</b> plugin.
 
-Project Start: April 01 Wednesday 2013 - 05/01/2013
+funJS is released under MIT license.
+
+<i>Project Start: April 01 Wednesday 2013 - 05/01/2013 by Memolition</i>
